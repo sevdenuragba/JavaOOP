@@ -1,6 +1,6 @@
 # JavaOOP
 Patika.dev Java101 object oriented programming ödevleri
-#Üniversite Yönetim Sistemi
+# Üniversite Yönetim Sistemi
 
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
