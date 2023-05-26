@@ -41,4 +41,5 @@ Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 * Havaalanlarının benzersiz kimlikleri ve isimleri vardır.
 * Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur.
 * Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
+
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
