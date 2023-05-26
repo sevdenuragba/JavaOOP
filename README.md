@@ -1,6 +1,6 @@
 # JavaOOP
 Patika.dev Java101 object oriented programming ödevleri
-# Üniversite Yönetim Sistemi
+## Üniversite Yönetim Sistemi
 
 * Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 * Departmanlara ait ofisler vardır.
@@ -11,7 +11,7 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
-# Hayvanat Bahçesi Yönetim Sistemi
+## Hayvanat Bahçesi Yönetim Sistemi
 
 Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.
 
@@ -27,7 +27,7 @@ Hayvanlar:
 
 Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
 
-# Uçuş Yönetimi Sistemi
+## Uçuş Yönetimi Sistemi
 Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 
 * Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.
@@ -41,7 +41,7 @@ Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
-# Online Film Sistemi
+## Online Film Sistemi
 Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
 
 * Uygulamada filmler listelenebilir, sıralanabilir ve kullanıcılar uygulamaya abone olabilir.
